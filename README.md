@@ -1,0 +1,2 @@
+# scraping-ruby-yahoo
+ヤフートップをrubyでスクレイピング
